@@ -1,8 +1,8 @@
 # RAG Loan Inquiry Agent
 
-A loan inquiry chatbot that answers customer questions using only a set of loan policy documents. Built as a hands-on project during **[TRAINING / PROGRAM NAME]**, delivered by **[ORGANIZATION / INSTRUCTOR]** in **[MONTH YEAR]**.
+A loan inquiry chatbot that answers customer questions using only a set of loan policy documents. Built as a hands-on project during **AI Bootcamp 2026 (Day 2: LLM / Agentic AI / AI Engineering)**, delivered by **Data Science Nigeria (DSN), led by Elisha (Jesutofunmi) Odemakinde** in **October 2026**.
 
-> **Author:** [Your Name] · **Cohort / Class:** [Class name] · **Instructor:** [Name]
+> **Author:** Faith Amanze · **Cohort / Class:** AI Bootcamp 2026 · **Instructor:** Elisha (Jesutofunmi) Odemakinde
 
 ## About the training
 
@@ -106,4 +106,4 @@ Flask web chat page (shared with ngrok)
 
 ## Acknowledgements
 
-Thanks to **[Instructor / Organization]** for the training and guidance.
+Thanks to **Elisha (Jesutofunmi) Odemakinde and Data Science Nigeria (DSN)** for the training and guidance.
