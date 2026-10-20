@@ -1,5 +1,9 @@
 # RAG Loan Inquiry Agent
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/faith-amanze/rag-loan-inquiry-agent/blob/main/Loan_Inquiry_Agent.ipynb)
+
+**To try it:** click the button, add your own free `GROQ_API_KEY` and `NGROK_AUTHTOKEN` in Colab Secrets, run the cells in order, and open the link the last cell prints.
+
 A loan inquiry chatbot that answers customer questions using only a set of loan policy documents. Built as a hands-on project during **AI Bootcamp 2026 (Day 2: LLM / Agentic AI / AI Engineering)**, delivered by **Data Science Nigeria (DSN), led by Elisha (Jesutofunmi) Odemakinde** in **October 2026**.
 
 > **Author:** Faith Amanze · **Cohort / Class:** AI Bootcamp 2026 · **Instructor:** Elisha (Jesutofunmi) Odemakinde
